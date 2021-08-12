@@ -15,6 +15,6 @@ When starting the program, the user must enter the name of the closed space file
 
 The closed space binary file must contain an ID, capacity and connections between rooms (maximum 3 connections). These connections serve to move people to other rooms (one closed space can have several rooms), and they don't interfere with dissemination, meaning there is no spread of the viral agent between rooms. For a room to connect to the other, there must necessarily be connections between the two, that is, for a room that connects to the other, this must be connected to the last one and vice versa.
 
-The text file with the list of people must contain an alphanumeric code (one of each person), their age, and their status (S-healthy, D-sick and I-immune). In case you are sick, the count of the number of days you have been sick must also be entered. This information must be entered in one line per patient, and each patient's data separated by at least one space.
+The text file with the list of patients must contain an alphanumeric code (one of each person), their age, and their status (S-healthy, D-sick and I-immune). In case you are sick, the count of the number of days you have been sick must also be entered. This information must be entered in one line per patient, and each patients data separated by at least one space.
 
-At the end of the program, the final statistical report and the final list of people, whose file name is chosen by the user, are also automatically saved.
+At the end of the program, the final statistical report and the final list of patients, whose file name is chosen by the user, is automatically generated.
