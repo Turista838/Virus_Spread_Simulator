@@ -5,11 +5,11 @@
 #### Guide:
 
 This program aims to simulate the spread of a viral agent in a closed space with people. It can predict virus behavior by using various mathematical models. This program is prepared for the following functions:
-• Advance 1 Iteration in Simulation: calculations and collection of new data are performed.
-• Display Statistics: displays statistical data including rate of sick people, rate of healthy people and rate of immune people.
-• Add Patient: add a person in a room of your choice.
-• Transfer Patients: Transfer patients to a room of your choice.
-• Go Back X Iterations: allows you to go back up to 3 iterations.
+* Advance 1 Iteration in Simulation: calculations and collection of new data are performed.
+* Display Statistics: displays statistical data including rate of sick people, rate of healthy people and rate of immune people.
+* Add Patient: add a person in a room of your choice.
+* Transfer Patients: Transfer patients to a room of your choice.
+* Go Back X Iterations: allows you to go back up to 3 iterations.
 
 When starting the program, the user must enter the name of the closed space file (must be in .bin format), and the name of the patients file (must be in .txt format). Any error in formatting these two files, the program closes immediately.
 
