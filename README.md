@@ -8,7 +8,7 @@ The patients are initially distributed by the rooms randomly, but you can manual
 
 #### Guide:
 
-Once running, the program will ask you for the room list (binary file) and patients list (text file). Both files have to exist inside the project and must be inputed their name + extension (.bin || .txt).
+Once running, the program will ask you for the room list (binary file) and patients list (text file). Both files have to exist inside the project and must be written their name + extension (.bin || .txt).
 
 After that you can:
 1. Advance 1 iteration
